@@ -2,17 +2,13 @@
 ![Logo](https://image.architonic.com/img_pro2-4/144/0241/post-wdpo1702-b.jpg)
 # Post Collection App
 
-Create your post collection Try now! .
+Create your post collection [Try now!](https://64798d9fc189b15eeeed23d1--legendary-unicorn-989047.netlify.app/) .
 
 
 ## Features
 
-- View Posts
-- Add/ Remove Posts  
-- Search and Update Posts
-- APIs, Redux, Hooks
-
-
+- UI Feature
+- Hooks
 
 
 ## Languages
